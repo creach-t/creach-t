@@ -59,6 +59,12 @@ Plateforme immersive pour un parc d'attractions thématique avec système de bil
 - **Technologies**: React, Node.js, Express.js, Tailwind CSS
 - **[GitHub](https://github.com/creach-t/zombieland)**
 
+### [Premier Portfolio](https://creach-t.github.io/)
+Mon premier portfolio développé en HTML, CSS et JavaScript natif. Site responsive avec support multilingue (français/anglais), mode sombre/clair, et présentation détaillée de mes premiers projets web.
+- **Technologies**: HTML, CSS, JavaScript
+- **Fonctionnalités**: Changement de thème, multilangue, formulaire de contact
+- **[GitHub](https://github.com/creach-t/creach-t.github.io)**
+
 ## 📚 Formation
 
 - **Titre Professionnel Développeur Web** (2024-2025) - École O'Clock
