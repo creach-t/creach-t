@@ -52,7 +52,7 @@ Plateforme de recherche d'emploi spécialisée pour les développeurs, intégran
 ### [O'Coffee](https://ocoffee.creachtheo.fr)
 Boutique e-commerce proposant une sélection de cafés de spécialité avec une expérience d'achat immersive, incluant des descriptions détaillées des origines et profils de dégustation.
 - **Technologies**: Node.js, Express.js, PostgreSQL, Sequelize, EJS
-- **[GitHub](https://github.com/creach-t/ocoffee)**
+- **[GitHub](https://github.com/creach-t/o-coffee)**
 
 ### [ZombieLand](https://zombieland.creachtheo.fr)
 Plateforme immersive pour un parc d'attractions thématique avec système de billetterie intégré, galeries multimédias et descriptions narratives des attractions.
